@@ -1,0 +1,14 @@
+Other Topics that are to be scheduled: 
+
+[Add Topics to this list when they are not scheduled]
+[Remove Topics from this list when they are scheduled on the main page]
+
+AI 4 Education, Jinjun Xiong, U. Buffalo 
+AI based IoT Solutions Overview, Dinesh Verma, IBM
+AI in HealthCare related to Neuro-Degenerative Diseases, TBD, TBD, (to be arranged by Abhay Ratnaparkhi)
+Federated Learning, Intel Labs, (to be arranged by Tong Zhang) 
+AI Applications for Network Domain, (to be arranged by Tong Zhang)
+OS Climate Overview, Vincent Caldeira, Red Hat
+Federated Learning Overview, Heiko Ludwig, (to be confirmed by Bill Wright) 
+AI Signaling Processing Technologies, David Wood, IBM (to be arranged by Dinesh Verma) 
+Bee Hive Analysis, Ryan Coffee, Noa, Leo, (to be confimed by Bill Wright) 
